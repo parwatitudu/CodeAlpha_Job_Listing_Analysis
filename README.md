@@ -1,4 +1,4 @@
-# CodeAlpha Job Listing Analysis
+# Job Listing Analysis
 
 ## Overview
 This project is a Job Listing Analysis project created using Python. 
